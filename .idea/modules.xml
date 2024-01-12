@@ -5,10 +5,12 @@
       <module fileurl="file://$PROJECT_DIR$/Algoritmer/Algoritmer.iml" filepath="$PROJECT_DIR$/Algoritmer/Algoritmer.iml" />
       <module fileurl="file://$PROJECT_DIR$/Array/Array.iml" filepath="$PROJECT_DIR$/Array/Array.iml" />
       <module fileurl="file://$PROJECT_DIR$/ComparableComparator/ComparableComparator.iml" filepath="$PROJECT_DIR$/ComparableComparator/ComparableComparator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EKSAMEN/EKSAMEN.iml" filepath="$PROJECT_DIR$/EKSAMEN/EKSAMEN.iml" />
       <module fileurl="file://$PROJECT_DIR$/FileReadWrite/FileReadWrite.iml" filepath="$PROJECT_DIR$/FileReadWrite/FileReadWrite.iml" />
       <module fileurl="file://$PROJECT_DIR$/GUI/GUI.iml" filepath="$PROJECT_DIR$/GUI/GUI.iml" />
       <module fileurl="file://$PROJECT_DIR$/Generics/Generics.iml" filepath="$PROJECT_DIR$/Generics/Generics.iml" />
       <module fileurl="file://$PROJECT_DIR$/Patterns/Patterns.iml" filepath="$PROJECT_DIR$/Patterns/Patterns.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Rekursion/Rekursion.iml" filepath="$PROJECT_DIR$/Rekursion/Rekursion.iml" />
       <module fileurl="file://$PROJECT_DIR$/RepPro/RepPro.iml" filepath="$PROJECT_DIR$/RepPro/RepPro.iml" />
       <module fileurl="file://$PROJECT_DIR$/SEM.2_Repetition.iml" filepath="$PROJECT_DIR$/SEM.2_Repetition.iml" />
     </modules>
